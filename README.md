@@ -63,4 +63,4 @@ pytest -q
 
 ## Possible next increment
 
-Add a focused resume module with PDF/DOCX text extraction, deterministic keyword overlap, and LLM suggestions. Keep it separate from job-fit scoring and test it with fixture resumes.
+Add a focused resume module with PDF/DOCX text extraction, deterministic keyword overlap, and LLM suggestions. Keep it separate from job-fit scoring and test it with fixture resumes and ats tailoring.
